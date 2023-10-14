@@ -1,0 +1,5 @@
+﻿  13.20.cpp
+c1xx : fatal  error C1083: 无法打开源文件: “13.20.cpp”: No such file or directory
+  14.7.cpp
+  正在生成代码...
+D:\c++\Visual Studio\Project2\Project2\14.7.cpp(117): error C4716: “operator<<”: 必须返回一个值
